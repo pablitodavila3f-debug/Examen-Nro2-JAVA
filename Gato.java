@@ -13,4 +13,4 @@ public class Gato extends Mascota {
     public String hacerSonido() {
         return "Miau";
     }
-}
+} 
