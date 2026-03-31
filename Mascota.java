@@ -1,7 +1,7 @@
 /*
 Examen Nro 2 JAVA 
 Nombre: Pablo Dávila
-Fecha: 30/03/2026
+Fecha: 30/03/2026 
 */
 // Mascota.java
 public class Mascota {
