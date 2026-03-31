@@ -9,7 +9,7 @@ public class Perro extends Mascota {
         return "Perro";
     }
 
-    
+     
     public String hacerSonido() {
         return "Guau ";
     }
