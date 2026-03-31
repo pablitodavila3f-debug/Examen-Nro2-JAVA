@@ -164,7 +164,7 @@ public class App {
      */
     static int leerEntero(String mensaje) {
         System.out.print(mensaje);
-        try {
+        try { 
             String linea = scanner.nextLine().trim();
             return Integer.parseInt(linea);
         } catch (NumberFormatException e) {
