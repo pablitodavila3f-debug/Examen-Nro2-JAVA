@@ -36,7 +36,7 @@ public class App {
         System.out.println("1. Registrar mascota  ");
         System.out.println("2. Mostrar mascotas   ");
         System.out.println("3. Ejecutar sonido por ID");
-        System.out.println("4. Buscar mascota por nombre");
+        System.out.println("4. Buscar mascota por nombre"); 
         System.out.println("5. Salir ");
         System.out.println("==================================");
     }
